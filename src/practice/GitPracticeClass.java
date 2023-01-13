@@ -8,5 +8,6 @@ public class GitPracticeClass {
 	public static void addNumbers(int a , int b) {
 		
 	}
+	public static void deleteNumber(int b , int c){
 
 }
